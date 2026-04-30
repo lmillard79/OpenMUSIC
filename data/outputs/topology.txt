@@ -1,0 +1,47 @@
+MUSIC Model Topology
+======================================================================
+
+[UrbanSourceNode] C3-Existing Access Track8CU@@R@d!Outflow (cubic metres per second) -> [Buffer] Buffer for C3-Existing Access Track8CU@@R@d!Outflow (cubic metres per second)
+[Buffer] Buffer for C3-Existing Access Track8CU@@R@d!Outflow (cubic metres per second) -> [Mitre Drain] Drain
+[Mitre Drain] Drain -> [Pond] Pond
+[Pond] Pond -> [Junction] C3 Post-development
+[UrbanSourceNode] C2-1 x Construction Compoundsx}@>A@d!Outflow (cubic metres per second) -> [Buffer] Buffer for C2-1 x Construction Compoundsx}@>A@d!Outflow (cubic metres per second)
+[Buffer] Buffer for C2-1 x Construction Compoundsx}@>A@d!Outflow (cubic metres per second) -> [Swale] Swale
+[Swale] Swale -> [Pond] Pond
+[Pond] Pond -> [Junction] C2 Post-development
+[UrbanSourceNode] C2-O & M FacilityzD@x@d!Outflow (cubic metres per second)@ -> [Buffer] Buffer for C2-O & M FacilityzD@x@d!Outflow (cubic metres per second)@
+[Buffer] Buffer for C2-O & M FacilityzD@x@d!Outflow (cubic metres per second)@ -> [Swale] Swale
+[Swale] Swale -> [Pond] Pond
+[Pond] Pond -> [Junction] C2 Post-development
+[UrbanSourceNode] C2-SubstationH!@pf@d!Outflow (cubic metres per second)@ -> [Buffer] Buffer for C2-SubstationH!@pf@d!Outflow (cubic metres per second)@
+[Buffer] Buffer for C2-SubstationH!@pf@d!Outflow (cubic metres per second)@ -> [Swale] Swale
+[Swale] Swale -> [Pond] Pond
+[Pond] Pond -> [Junction] C2 Post-development
+[UrbanSourceNode] C2-BESSR@J@d!Outflow (cubic metres per second)@< -> [Buffer] Buffer for C2-BESSR@J@d!Outflow (cubic metres per second)@<
+[Buffer] Buffer for C2-BESSR@J@d!Outflow (cubic metres per second)@< -> [Swale] Swale
+[Swale] Swale -> [Pond] Pond
+[Pond] Pond -> [Junction] C2 Post-development
+[UrbanSourceNode] C2-Developed Access Track@r@h(@d!Outflow (cubic metres per second) -> [Buffer] Buffer for C2-Developed Access Track@r@h(@d!Outflow (cubic metres per second)
+[Buffer] Buffer for C2-Developed Access Track@r@h(@d!Outflow (cubic metres per second) -> [Mitre Drain] Drain
+[Mitre Drain] Drain -> [Pond] Pond
+[Pond] Pond -> [Junction] C2 Post-development
+[UrbanSourceNode] C3-Developed Access Track=s@h$@d!Outflow (cubic metres per second) -> [Buffer] Buffer for C3-Developed Access Track=s@h$@d!Outflow (cubic metres per second)
+[Buffer] Buffer for C3-Developed Access Track=s@h$@d!Outflow (cubic metres per second) -> [Mitre Drain] Drain
+[Mitre Drain] Drain -> [Pond] Pond
+[Pond] Pond -> [Junction] C3 Post-development
+[UrbanSourceNode] C3-2 x Laydown Areas@2@!@d!Outflow (cubic metres per second) -> [Buffer] Buffer for C3-2 x Laydown Areas@2@!@d!Outflow (cubic metres per second)
+[Buffer] Buffer for C3-2 x Laydown Areas@2@!@d!Outflow (cubic metres per second) -> [Swale] Swale
+[Swale] Swale -> [Pond] Pond
+[Pond] Pond -> [Junction] C3 Post-development
+[UrbanSourceNode] C3-Construction Compound(U@P=h$x@d!Outflow (cubic metres per second) -> [Buffer] Buffer for C3-Construction Compound(U@P=h$x@d!Outflow (cubic metres per second)
+[Buffer] Buffer for C3-Construction Compound(U@P=h$x@d!Outflow (cubic metres per second) -> [Swale] Swale
+[Swale] Swale -> [Pond] Pond
+[Pond] Pond -> [Junction] C3 Post-development
+[UrbanSourceNode] C3-Test BedW@g@d!Outflow (cubic metres per second)@ -> [Buffer] Buffer for C3-Test BedW@g@d!Outflow (cubic metres per second)@
+[Buffer] Buffer for C3-Test BedW@g@d!Outflow (cubic metres per second)@ -> [Swale] Swale
+[Swale] Swale -> [Pond] Pond
+[Pond] Pond -> [Junction] C3 Post-development
+[UrbanSourceNode] C3-Existing Access Track)=s@0\@d!Outflow (cubic metres per second) -> [Buffer] Buffer for C3-Existing Access Track)=s@0\@d!Outflow (cubic metres per second)
+[Buffer] Buffer for C3-Existing Access Track)=s@0\@d!Outflow (cubic metres per second) -> [Mitre Drain] Drain
+[Mitre Drain] Drain -> [Pond] Pond
+[Pond] Pond -> [Junction] C3 Post-development

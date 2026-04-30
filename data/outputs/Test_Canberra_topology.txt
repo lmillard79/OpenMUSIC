@@ -1,0 +1,16 @@
+============================================================
+MUSIC Model Topology
+============================================================
+
+SOURCES:
+  [+] UrbanSourceNode: banSourceNodehUrbanH$@aD@d!Outflow (cubi
+  [+] UrbanSourceNode: banSourceNodehUrban%.T@8jXO@d!Outflow (c
+  [+] UrbanSourceNode: banSourceNodehUrbane9@Hg@d!Outflow (cubi
+
+RECEIVING:
+  [O] ReceivingNode: TRece
+
+FLOW:
+  Sources(3) -> Treatment(0) -> Receiving(1)
+
+============================================================

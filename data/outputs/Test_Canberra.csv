@@ -1,0 +1,5 @@
+node_type,name,node_id,x,y,input_count,output_count
+ReceivingNode,TRece,,0.0,0.0,0,0
+UrbanSourceNode,banSourceNodehUrbanH$@aD@d!Outflow (cubic metres per second)@<,,0.0,0.0,0,0
+UrbanSourceNode,banSourceNodehUrban%.T@8jXO@d!Outflow (cubic metres per second)@<,,0.0,0.0,0,0
+UrbanSourceNode,banSourceNodehUrbane9@Hg@d!Outflow (cubic metres per second)@<,,0.0,0.0,0,0

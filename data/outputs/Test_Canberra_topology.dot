@@ -1,0 +1,16 @@
+digraph MUSIC_Model {
+  rankdir=TB;
+  node [shape=box, style="rounded,filled", fontname="Arial"];
+  edge [fontname="Arial", fontsize=10];
+
+  label="MUSIC Model: 4 nodes";
+  labelloc="t";
+
+  node_0 [label="TRece\n(ReceivingNode)", fillcolor="#8dc63f", fontcolor="white"];
+  node_1 [label="banSourceNodehUrbanH$@aD@d!Out\n(UrbanSourceNode)", fillcolor="#00928f", fontcolor="white"];
+  node_2 [label="banSourceNodehUrban%.T@8jXO@d!\n(UrbanSourceNode)", fillcolor="#00928f", fontcolor="white"];
+  node_3 [label="banSourceNodehUrbane9@Hg@d!Out\n(UrbanSourceNode)", fillcolor="#00928f", fontcolor="white"];
+  node_1 -> node_0;
+  node_2 -> node_0;
+  node_3 -> node_0;
+}
